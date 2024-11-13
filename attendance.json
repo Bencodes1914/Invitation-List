@@ -1,0 +1,63 @@
+[
+    
+    {
+      "name": "Olarewaju Family",
+      "members": 4,
+      "methodOfInvitation": "Phone"   
+    },
+    {
+        "name": "Akpan Family",
+        "members": 4,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Angela Family",
+        "members": 5,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Julius Family",
+        "members": 3,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Maxwell Family",
+        "members": 2,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Offiong Family",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Ogra Family",
+        "members": 3,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Badagry",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Baagry",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Joel",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Awa",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Taye Kexstro",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    }
+]
